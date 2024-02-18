@@ -14,6 +14,7 @@
 		6BBCA4282B816486006A6E38 /* Juxta.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 6BBCA4262B816486006A6E38 /* Juxta.xcdatamodeld */; };
 		6BBCA42A2B816488006A6E38 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BBCA4292B816488006A6E38 /* Assets.xcassets */; };
 		6BBCA42D2B816488006A6E38 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6BBCA42B2B816488006A6E38 /* LaunchScreen.storyboard */; };
+		6BBCA4352B8221A5006A6E38 /* ChemicalDataApi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BBCA4342B8221A5006A6E38 /* ChemicalDataApi.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		6BBCA4292B816488006A6E38 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BBCA42C2B816488006A6E38 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6BBCA42E2B816488006A6E38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6BBCA4342B8221A5006A6E38 /* ChemicalDataApi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChemicalDataApi.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 			isa = PBXGroup;
 			children = (
 				6BBCA41D2B816486006A6E38 /* AppDelegate.swift */,
+				6BBCA4342B8221A5006A6E38 /* ChemicalDataApi.swift */,
 				6BBCA41F2B816486006A6E38 /* SceneDelegate.swift */,
 				6BBCA4212B816486006A6E38 /* ViewController.swift */,
 				6BBCA4232B816486006A6E38 /* Main.storyboard */,
@@ -143,6 +146,7 @@
 			files = (
 				6BBCA4222B816486006A6E38 /* ViewController.swift in Sources */,
 				6BBCA41E2B816486006A6E38 /* AppDelegate.swift in Sources */,
+				6BBCA4352B8221A5006A6E38 /* ChemicalDataApi.swift in Sources */,
 				6BBCA4282B816486006A6E38 /* Juxta.xcdatamodeld in Sources */,
 				6BBCA4202B816486006A6E38 /* SceneDelegate.swift in Sources */,
 			);
